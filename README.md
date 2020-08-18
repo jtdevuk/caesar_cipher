@@ -1,4 +1,4 @@
-**# The Odin Project - Ruby Programming**
+# **The Odin Project - Ruby Programming**
 
 **### Project: Caesar Cipher**
 
